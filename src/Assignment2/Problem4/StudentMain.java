@@ -2,7 +2,6 @@ package Assignment2.Problem4;
 
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Iterator;
 import java.util.Scanner;
 import java.util.TreeSet;
 import java.util.ArrayList;

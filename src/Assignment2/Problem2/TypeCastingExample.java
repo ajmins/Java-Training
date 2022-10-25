@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 //import java.util.Scanner;
 
-public class TypeCastindExample {
+public class TypeCastingExample {
 
 	
 	public static void main(String[] args) {

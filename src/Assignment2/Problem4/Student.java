@@ -1,16 +1,12 @@
 package Assignment2.Problem4;
 
-import java.util.ArrayList;
 import java.util.Comparator;
 
 public class Student {
 
 	private String studentName;
 	private int rollNumber;
-	
 
-	
-	
 	public Student(String studentName, int rollNumber) {
 		this.studentName = studentName;
 		this.rollNumber = rollNumber;
